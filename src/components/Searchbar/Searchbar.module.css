@@ -1,0 +1,26 @@
+.searchbar {
+  background-color: #f0f0f0;
+  padding: 1rem;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.input {
+  flex: 1;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+  cursor: pointer;
+}

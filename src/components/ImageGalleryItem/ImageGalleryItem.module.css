@@ -1,0 +1,11 @@
+.gallery-item {
+  list-style: none;
+  width: calc((100% - (16px * 3)) / 4);
+  cursor: pointer;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
